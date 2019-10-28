@@ -1,0 +1,24 @@
+{
+  "name": "formik-wizard",
+  "version": "1.0.0",
+  "description": "Wizard with Formik integration",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuxhe/formik-wizard.git"
+  },
+  "keywords": [
+    "wizard",
+    "formik",
+    "forms"
+  ],
+  "author": "Tuxhe <houseedition@gmail.com> (http://tuxhe.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuxhe/formik-wizard/issues"
+  },
+  "homepage": "https://github.com/tuxhe/formik-wizard#readme"
+}
